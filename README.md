@@ -5,21 +5,21 @@
   <img src="./murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>WEBPACK CONFIG</b></h3>
+  <h3><b>JEST PRACTICE</b></h3>
 
 </div>
 
-# 📖 <a name="WEBPACK BOILERPLATE"></a>
+# 📖 <a name="JEST EXERCISE"></a>
 
-> A Webpack config installation learning exercise
+> A Jest learning exercise - practical tests for JavaScript functions using the Jest library. used the AAA pattern to make tests easier for other developers to read and understand. Also, used the TDD approach in practice.
 
-## 🛠 Built With <a name="built-with">HTML, CSS, & Javascript</a>
+## 🛠 Built With <a name="built-with">Javascript & Jest</a>
 
-- A demonstration of the benefits of working with webpack configuration
+- A demonstration of the benefits of testing functions
 
 ### Key Features <a name="key-features"></a>
 
-- Clean and interactive
+- jest tests for JavaScript functions
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -31,11 +31,12 @@ All you need VScompiler or a compiler of your choice.
 
 Clone this repository to your desired folder:
 
-git clone https://github.com/felixDev22/Webpack
+git clone https://github.com/felixDev22/jest-practice
 
 ### Run
 
-To run project, run the following command: git clone
+To run project, run the following command:
+git clone https://github.com/felixDev22/jest-practice
 
 Open in desired editor.
 
