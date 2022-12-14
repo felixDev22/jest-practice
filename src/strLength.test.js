@@ -1,3 +1,4 @@
+// eslint-disable-next-line import/extensions
 const strLength = require('./strLength');
 
 test('check string is length Elephant will be 8', () => {

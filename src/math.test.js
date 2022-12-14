@@ -1,3 +1,4 @@
+// eslint-disable-next-line import/extensions
 const math = require('./math');
 
 describe('Add', () => {

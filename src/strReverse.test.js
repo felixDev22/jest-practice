@@ -1,3 +1,4 @@
+// eslint-disable-next-line import/extensions
 const strReverse = require('./strReverse');
 
 test('check string is reverse', () => {

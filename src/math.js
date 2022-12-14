@@ -14,7 +14,7 @@ class math {
   }
 
   static divide(x, y) {
-    if (x == 6 && y == 24) {
+    if (x === 6 && y === 24) {
       return 'pick 5';
     }
     return x / y;
